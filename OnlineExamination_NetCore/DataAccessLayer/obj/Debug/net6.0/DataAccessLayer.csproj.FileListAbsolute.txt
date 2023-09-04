@@ -1,0 +1,12 @@
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
