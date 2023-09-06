@@ -1,0 +1,15 @@
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\bin\Debug\net6.0\OnlineExamination.ViewModels.deps.json
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\bin\Debug\net6.0\OnlineExamination.ViewModels.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\bin\Debug\net6.0\OnlineExamination.ViewModels.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.AssemblyInfo.cs
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.csproj.CopyComplete
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\refint\OnlineExamination.ViewModels.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\OnlineExamination.ViewModels.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\ref\OnlineExamination.ViewModels.dll

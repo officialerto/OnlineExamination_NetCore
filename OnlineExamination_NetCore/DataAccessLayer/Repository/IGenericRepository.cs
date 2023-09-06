@@ -16,7 +16,7 @@ namespace DataAccessLayer.Repository
         Task<T> GetByIdAsync(object id);
         void Add(T entity);
         Task<T> AddAsync(T entity);
-        void DeleteById(T entity);
+        void DeleteById(object id);
         void Delete(T entityToDelete);
         void Update(T entityToUpdate);
         Task<T> UpdateAsync(T entityToUpdate);

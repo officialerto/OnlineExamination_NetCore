@@ -15,10 +15,10 @@ namespace DataAccessLayer.Repository
 
         private readonly ApplicationDbContext _context = null;
 
-        public GenericRepository(DbSet<T> dbSet, ApplicationDbContext context)
+        public GenericRepository(ApplicationDbContext context)
         {
-            this.dbSet = dbSet;
             _context = context;
+            this.dbSet = _context.Set<T>();
         }
 
         public void Add(T entity)
@@ -34,22 +34,47 @@ namespace DataAccessLayer.Repository
 
         public void Delete(T entityToDelete)
         {
-            throw new NotImplementedException();
+            if (_context.Entry(entityToDelete).State == EntityState.Detached)
+            {
+                dbSet.Attach(entityToDelete);
+            }
+            dbSet.Remove(entityToDelete);
         }
 
-        public Task<T> DeleteAsync(T entityToDelete)
+        public async Task<T> DeleteAsync(T entityToDelete)
         {
-            throw new NotImplementedException();
+            if (_context.Entry(entityToDelete).State == EntityState.Detached)
+            {
+                dbSet.Attach(entityToDelete);
+            }
+            dbSet.Remove(entityToDelete);
+            return entityToDelete;
         }
 
-        public void DeleteById(T entity)
+        public void DeleteById(object id)
         {
-            throw new NotImplementedException();
+            T entityToDelete = dbSet.Find(id);
+            Delete(entityToDelete);
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+
+        private bool disposed = false;
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!this.disposed)
+            {
+                if (disposing)
+                {
+                    _context.Dispose();
+                }
+            }
+            this.disposed = true;
         }
 
         public IEnumerable<T> GetAll(Expression<Func<T, bool>> filter = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string includeProperties = "")
@@ -85,12 +110,15 @@ namespace DataAccessLayer.Repository
 
         public void Update(T entityToUpdate)
         {
-            throw new NotImplementedException();
+            dbSet.Attach(entityToUpdate);
+            _context.Entry(entityToUpdate).State = EntityState.Modified;
         }
 
-        public Task<T> UpdateAsync(T entityToUpdate)
+        public async Task<T> UpdateAsync(T entityToUpdate)
         {
-            throw new NotImplementedException();
+            dbSet.Attach(entityToUpdate);
+            _context.Entry(entityToUpdate).State = EntityState.Modified;
+            return entityToUpdate;
         }
     }
 }
