@@ -1,0 +1,17 @@
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\bin\Debug\net6.0\ViewModels.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\BLL\obj\Debug\net6.0\ref\BLL.dll

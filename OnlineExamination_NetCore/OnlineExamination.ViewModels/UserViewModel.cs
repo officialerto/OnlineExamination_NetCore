@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Data;
 using System.Xml.Linq;
 
-namespace OnlineExamination.ViewModels
+namespace ViewModels
 {
     public class UserViewModel
     {

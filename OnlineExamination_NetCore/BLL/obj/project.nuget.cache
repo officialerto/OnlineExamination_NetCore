@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uf9u229mqkhrvWBg0EPbimLHNYr036bvstwC+LQaBid0dnS1759aBs9ZRQ2dvrm+03JIYYWuRIS3cFp38KiIGg==",
+  "dgSpecHash": "5BsdoinFz5jmWps9llAeTjQNwiYtb2DRAVrmX0wyiuLOeBu2hkkbL2CqbTi8q8uwBtDzREf7emAwDK7/D77qzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\OnlineExamination.ViewModels\\ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ertugrul\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Ertugrul\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnlineExamination.ViewModels
+namespace ViewModels
 {
     public class GroupViewModel
     {
