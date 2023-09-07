@@ -9,7 +9,7 @@ namespace DataAccessLayer
     public class ExamResults
     {
         public int Id { get; set; }
-        public string StudentsId { get; set; }
+        public int StudentsId { get; set; }
         public Students Students { get; set; } 
         public int? ExamsId { get; set; }
         public Exams Exams { get; set; }

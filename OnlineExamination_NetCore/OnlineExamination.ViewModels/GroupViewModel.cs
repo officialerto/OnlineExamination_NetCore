@@ -20,6 +20,7 @@ namespace ViewModels
         [Display(Name = "Description")]
         public string Description { get; set; }
         public int UsersId { get; set; }
+        public List<StudentCheckBoxListViewModel> StudentCheckLists { get; set; }
         public List<GroupViewModel> GroupList { get; set; }
         public int TotalCount { get; set; }
 
