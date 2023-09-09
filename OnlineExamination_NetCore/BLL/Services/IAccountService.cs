@@ -9,7 +9,7 @@ namespace BLL.Services
 {
     public interface IAccountService
     {
-        LoginViewModel login(LoginViewModel vm);
+        LoginViewModel Login(LoginViewModel vm);
         bool AddTeacher(UserViewModel vm);
         PagedResult<UserViewModel> GetAllTeachers(int pageNumber, int pageSize);
     }

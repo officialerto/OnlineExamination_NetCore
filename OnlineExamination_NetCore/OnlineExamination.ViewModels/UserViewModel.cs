@@ -7,6 +7,11 @@ namespace ViewModels
 {
     public class UserViewModel
     {
+        public UserViewModel()
+        {
+
+        }
+
         public UserViewModel(Users model)
         {
             Id = model.Id;
@@ -41,5 +46,7 @@ namespace ViewModels
         [Required]
         public string Password { get; set; } = string.Empty;
         public int Role { get; set; }
+        public List<UserViewModel> UserList { get; set; }
+        public int TotalCount { get; set; }
     }
 }

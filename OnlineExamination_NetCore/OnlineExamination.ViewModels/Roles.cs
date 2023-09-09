@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ViewModels
 {
-    public enum Roles
+    public enum EnumRoles
     {
         Admin = 1,
         Teacher = 2,
