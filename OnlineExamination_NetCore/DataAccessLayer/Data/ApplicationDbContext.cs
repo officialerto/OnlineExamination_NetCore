@@ -9,6 +9,10 @@ namespace DataAccessLayer.Data
 {
     public class ApplicationDbContext : DbContext
     {
+        public ApplicationDbContext()
+        {
+        }
+
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
         }
@@ -73,5 +77,6 @@ namespace DataAccessLayer.Data
 
             base.OnModelCreating(modelBuilder);
         }
+
     }
 }

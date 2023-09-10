@@ -13,3 +13,5 @@ C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_N
 C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\refint\ViewModels.dll
 C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\ViewModels.pdb
 C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\ref\ViewModels.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\bin\Debug\net6.0\ViewModels.runtimeconfig.json
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\OnlineExamination.ViewModels\obj\Debug\net6.0\ViewModels.genruntimeconfig.cache

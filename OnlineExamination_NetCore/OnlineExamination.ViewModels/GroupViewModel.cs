@@ -32,6 +32,10 @@ namespace ViewModels
             UsersId = model.UsersId;
         }
 
+        public GroupViewModel()
+        {
+        }
+
         public Groups ConvertGroupsViewModel(GroupViewModel vm)
         {
             return new Groups

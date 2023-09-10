@@ -10,6 +10,10 @@ namespace ViewModels
 {
     public class ExamViewModel
     {
+        public ExamViewModel()
+        {
+                
+        }
         public int Id { get; set; }
 
         [Required]

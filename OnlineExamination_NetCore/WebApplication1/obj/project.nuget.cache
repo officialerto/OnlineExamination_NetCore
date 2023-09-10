@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "ptda5Q4iBQhXpObI6KILUOlduK6bsS19OePDdF9dmIJTHRE0gtJY9m9GAPAi/u4UPa21X/qPoF6z+mSNihQRMA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project ViewModels is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project ViewModels supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "ViewModels",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BLL is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project BLL supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "BLL",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project DataAccessLayer is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project DataAccessLayer supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "DataAccessLayer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

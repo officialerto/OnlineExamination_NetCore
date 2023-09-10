@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BLL/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.dll": {}
+        }
+      },
+      "DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "ViewModels/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLL/1.0.0": {
+      "type": "project",
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
+    },
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/DataAccessLayer.csproj",
+      "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+    },
+    "ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../OnlineExamination.ViewModels/ViewModels.csproj",
+      "msbuildProject": "../OnlineExamination.ViewModels/ViewModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BLL >= 1.0.0",
+      "DataAccessLayer >= 1.0.0",
+      "ViewModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\WebApplication1\\WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\WebApplication1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ertugrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\BLL\\BLL.csproj"
+            },
+            "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\OnlineExamination.ViewModels\\ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\OnlineExamination_NetCore\\OnlineExamination_NetCore\\OnlineExamination.ViewModels\\ViewModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project ViewModels is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project ViewModels supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "ViewModels",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BLL is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project BLL supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "BLL",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project DataAccessLayer is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project DataAccessLayer supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "DataAccessLayer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

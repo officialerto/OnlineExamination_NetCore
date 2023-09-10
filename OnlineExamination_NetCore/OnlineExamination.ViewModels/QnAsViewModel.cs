@@ -58,6 +58,10 @@ namespace ViewModels
             Answer = model.Answer;
         }
 
+        public QnAsViewModel()
+        {
+        }
+
         public QnAs ConvertViewModel(QnAsViewModel vm)
         {
             return new QnAs

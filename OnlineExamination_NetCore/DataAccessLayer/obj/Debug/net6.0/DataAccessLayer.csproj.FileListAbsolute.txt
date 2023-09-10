@@ -10,3 +10,5 @@ C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_N
 C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
 C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Ertugrul\Documents\GitHub\OnlineExamination_NetCore\OnlineExamination_NetCore\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
